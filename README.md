@@ -35,9 +35,7 @@ Rama del campo de la Inteligencia Artificial, que busca como dotar a las máquin
 
 ## Redes neuronales
 
-Son capaces de aprender de forma jerarquizada. Están formadas por capas de neuronas donde las primeras capas aprenden conceptos más concretos, y las capas posteriores conceptos más abstractos.
-
-También son conocidos como algoritmos de Deep Learning.
+Una red neuronal es un modelo simplificado que emula el modo en que el cerebro humano procesa la información: Funciona simultaneando un número elevado de unidades de procesamiento interconectadas que parecen versiones abstractas de neuronas.
 
 ## Deep Learning
 
