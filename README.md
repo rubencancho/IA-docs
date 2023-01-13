@@ -21,16 +21,21 @@ Subdisciplina del campo de la Informática que busca la creación de máquinas q
 
 ## Aprendizaje Automático (Machine Learning)
 
-Rama del campo de la Inteligencia Artificial, que busca como dotar a las máquinas de capacidad de aprendizaje.
+### Definición
+  * Rama del campo de la Inteligencia Artificial, que busca como dotar a las máquinas de capacidad de aprendizaje.
 
-## Paradigmas de aprendizaje
+### Paradigmas de aprendizaje
 
 * Aprendizaje supervisado
+
+  * Tipo de aprendizaje donde alimentamos al algoritmo con datos etiquetados durante el entrenamiento. El algoritmo aprenderá a clasificar nuevos datos. Por ejemplo: detectar spam.
+
 * Aprendizaje no supervisado
+  * Tipo de aprendizaje donde alimentamos al algoritmo con datos no etiquetados. El algoritmo aprenderá a encontrar patrones en los datos. Por ejemplo: encontrar clases de usuarios.
+
 * Aprendizaje reforzado
 
- ## Técnicas de Aprendizaje Automático
- 
+### Técnicas
  * Árboles de decisión
  * Modelos de regresión
  * Modelos de clasificación
@@ -59,8 +64,4 @@ También se puede referir al proceso de análisis de estos datos, desde su captu
 * AlphaFold
 * AlphaCode
 * Gato
-
-
-
-
 
