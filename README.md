@@ -65,3 +65,8 @@ También se puede referir al proceso de análisis de estos datos, desde su captu
 * AlphaCode
 * Gato
 
+## OpenAI
+
+* DALLE / DALLE-2
+* Whisper
+* ChatGPT
