@@ -6,6 +6,11 @@ Vamos a entrenar un modelo de Teachable Machine para que sea capaz de identifica
 
 1. Elección de clases y datos de entrenamiento
 
+vamos a añadir 3 clases:
+  * Contenedor amarillo
+  * Contenedor verde
+  * Contener azul
+
 2. Entrenamiento del modelo
 
 3. Evaluación del modelo y conclusiones
