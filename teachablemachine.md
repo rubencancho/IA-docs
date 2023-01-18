@@ -1,1 +1,0 @@
-# Proyecto: Clasificación de residuos
