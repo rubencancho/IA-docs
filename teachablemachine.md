@@ -15,11 +15,20 @@ vamos a añadir 3 clases:
 
 3. Evaluación del modelo y conclusiones
 
+### Test 1
+
 Probamos con una botella de plástico y nos da una clasificación de contenedor erronea (verde):
 
 ![](https://github.com/rubencancho/IA-docs/blob/main/imagenes_doc/test1.png)
 
 Debemos reentrenar el modelo para que aprenda mejor la diferencia entre los materiales, y no se centre en las formas.
+
+### Test 2
+
+Probamos con un rollo de papel y nos da una clasificación de contenedor erronea (amarillo):
+
+![](https://github.com/rubencancho/IA-docs/blob/main/imagenes_doc/test2.png)
+
 
 ## Iteración 2
 
