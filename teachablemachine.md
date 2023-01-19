@@ -15,6 +15,10 @@ vamos a añadir 3 clases:
 
 3. Evaluación del modelo y conclusiones
 
+Probamos con una botella de plástico y nos da una clasificación de contenedor erronea (verde). 
+
+Debemos reentrenar el modelo para que aprenda mejor la diferencia entre los materiales, y no se centre en las formas.
+
 ## Iteración 2
 
 Mejora de los datos de entrenamiento (opción 1)
