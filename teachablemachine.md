@@ -30,12 +30,13 @@ Probamos con un rollo de papel y nos da una clasificación de contenedor erronea
 ![](https://github.com/rubencancho/IA-docs/blob/main/imagenes_doc/test2.png)
 
 ### Conjunto de entrenamiento 1
-
-| Imagen          | Categoría real | Categoría del modelo | Porcentaje | Comentario |
-|-----------------|----------------|----------------------|------------|------------|
-| aluminio.jpg    | Amarillo       | Amarillo             | 80,00 %    |            |
-| brote_spray.jpg | Amarillo       | Amarillo             | 94,00 %    |            |
-| brik.jpg        | Amarillo       | Amarillo             | 98,00 %    |            |
+| Imagen          | Categoría real | Categoría del modelo | Porcentaje | Comentario                   |
+|-----------------|----------------|----------------------|------------|------------------------------|
+| aluminio.jpg    | Amarillo       | Amarillo             | 80,00 %    | Ok                           |
+| brote_spray.jpg | Amarillo       | Amarillo             | 94,00 %    | Ok                           |
+| brik.jpg        | Amarillo       | Amarillo             | 98,00 %    | Ok                           |
+| huevera.jpg     | Azul           | Amarillo             | 81,00 %    | Falla, deberíamos reentrenar |
+| periodico.jpg   | Azul           | Azul                 | 98,00 %    | Ok                           |
 
 
 ## Iteración 2
