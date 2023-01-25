@@ -31,9 +31,11 @@ Probamos con un rollo de papel y nos da una clasificación de contenedor erronea
 
 ### Conjunto de entrenamiento 1
 
-| Imagen       | Categoría real | Categoría del modelo | Porcentaje | Comentario |
-|--------------|----------------|----------------------|------------|------------|
-| aluminio.jpg | Amarillo       | Amarillo             | 80,00 %    |            |
+| Imagen          | Categoría real | Categoría del modelo | Porcentaje | Comentario |
+|-----------------|----------------|----------------------|------------|------------|
+| aluminio.jpg    | Amarillo       | Amarillo             | 80,00 %    |            |
+| brote_spray.jpg | Amarillo       | Amarillo             | 94,00 %    |            |
+| brik.jpg        | Amarillo       | Amarillo             | 98,00 %    |            |
 
 
 ## Iteración 2
