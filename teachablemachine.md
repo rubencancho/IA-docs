@@ -29,6 +29,12 @@ Probamos con un rollo de papel y nos da una clasificación de contenedor erronea
 
 ![](https://github.com/rubencancho/IA-docs/blob/main/imagenes_doc/test2.png)
 
+### Conjunto de entrenamiento 1
+
+| Imagen       | Categoría real | Categoría del modelo | Porcentaje | Comentario |
+|--------------|----------------|----------------------|------------|------------|
+| aluminio.jpg | Amarillo       | Amarillo             | 80,00 %    |            |
+
 
 ## Iteración 2
 
